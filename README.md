@@ -1,11 +1,13 @@
 # 최주용 Choi Ju Yong
 
 - 💻 **TECH SKILLS**
-<img width="15%" height="50px" src="https://img.shields.io/badge/JavaScript-f7df1e?style=flat-square&logo=JavaScript&logoColor=white"/>
-<img width="15%" height="50px" src="https://img.shields.io/badge/TypeScript-f7df1e?style=flat-square&logo=TypeScript&logoColor=#3178C6"/>
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-- 🤔 **I'm Interested In**
-
+- 🤔 **Now, I'm Interested In**
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
 <!--
 **wuzoo/wuzoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
