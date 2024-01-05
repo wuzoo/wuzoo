@@ -1,6 +1,6 @@
 # 최주용 - Choi Ju Yong
 
-> Front-End developer
+> 프론트엔드 개발자를 꿈꾸는 **최주용**이라고 합니다.
 
 ### 💻 **TECH SKILLS**
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
