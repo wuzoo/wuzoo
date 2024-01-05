@@ -13,9 +13,9 @@
 
 ---
 
-![wuzoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=wuzoo&include_all_commits=True&show_icons=true&theme=dark&rank_icon=github)
-<br />
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jeon2308)](https://solved.ac/jeon2308/)
+![wuzoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=wuzoo&include_all_commits=True&show_icons=true&theme=dark&rank_icon=github)
+
 
 <!--
 **wuzoo/wuzoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
