@@ -9,6 +9,10 @@
 ### 🤔 **Now, I'm Interested In**
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
+---
+
+![wuzoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=wuzoo&include_all_commits=True&show_icons=true&theme=dark&rank_icon=github)
+
 <!--
 **wuzoo/wuzoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
