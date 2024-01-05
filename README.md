@@ -1,7 +1,8 @@
 # 최주용 Choi Ju Yong
 
 - 💻 **TECH SKILLS**
-<img width="15%" height="60px" src="https://img.shields.io/badge/JavaScript-f7df1e?style=flat-square&logo=JavaScript&logoColor=white"/>
+<img width="15%" height="50px" src="https://img.shields.io/badge/JavaScript-f7df1e?style=flat-square&logo=JavaScript&logoColor=white"/>
+<img width="15%" height="50px" src="https://img.shields.io/badge/TypeScript-f7df1e?style=flat-square&logo=TypeScript&logoColor=#3178C6"/>
 
 - 🤔 **I'm Interested In**
 
