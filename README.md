@@ -17,7 +17,7 @@
 
 ---
 
-![wuzoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=wuzoo&include_all_commits=True&show_icons=true&theme=dark&rank_icon=github)
+![wuzoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=wuzoo&include_all_commits=True&show_icons=true&theme=dark)
 
 
 <!--
