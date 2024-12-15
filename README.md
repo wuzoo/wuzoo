@@ -2,9 +2,10 @@
 
 > 프론트엔드 개발자를 꿈꾸는 **최주용**이라고 합니다.
 
-개발자는 사용자 중심적인 사고를 가진 소프트웨어 엔지니어라고 생각합니다. <br />
+개발자는 사용자 중심적인 사고를 가진 <strong>소프트웨어 엔지니어</strong>라고 생각합니다. <br />
 늘 확인할 수 없는 사용자 경험까지 고려하며 개발하고 있습니다.
 
+[wuzoo.log](https://velog.io/@wuzoo/posts) <br /><br />
 ![Velog GitHub stats](https://velog-github-badge.vercel.app/badge/wuzoo)
 
 ## PROJECT
