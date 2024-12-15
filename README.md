@@ -14,14 +14,14 @@
 |티키|동아리 운영 및 관리 서비스|2024.06 ~ |[Git](https://github.com/Team-Tiki/tiki-client)|
 |ForLionz|교내 멋쟁이사자처럼 대학 운영 서비스|2024.01 ~ 2024.03|[Git](https://github.com/wuzoo/ForLionz12_FE)||
 
-<br />
-
 ## ACTIVITY
 |Group|Part|Duration|
 |:---:|:----:|:---:|
 |SOPT Makers|공식 홈페이지 팀|2024.09 ~ |
 |SOPT|34기 WEB|2024.03 ~ 2024.07|
 |멋쟁이사자처럼|Frontend|2023.03 ~ 2023.08|
+
+## ETC
 
 ![wuzoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=wuzoo&include_all_commits=True&show_icons=true&theme=dark)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jeon2308)](https://solved.ac/jeon2308/)
