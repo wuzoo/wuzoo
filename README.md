@@ -1,6 +1,6 @@
 # 최주용 - Choi Ju Yong
 
-> 프론트엔드 개발자를 꿈꾸는 **최주용**이라고 합니다.
+> 프론트엔드 개발자 **최주용**이라고 합니다.
 
 개발자는 사용자 중심적인 사고를 가진 <strong>소프트웨어 엔지니어</strong>라고 생각합니다. <br />
 늘 확인할 수 없는 사용자 경험까지 고려하며 개발하고 있습니다.
@@ -9,18 +9,18 @@
 ![Velog GitHub stats](https://velog-github-badge.vercel.app/badge/wuzoo)
 
 ## PROJECT
-|Name|Description|Duration|Link|
-|:---:|:------:|:----:|:---:|
-|알고헙|알고리즘 스터디 플랫폼|2024.09 ~|[Git](https://github.com/GAMZA-BAT/algohub-client) [Site](http://algohub.kr/)|
-|티키|동아리 운영 및 관리 서비스|2024.06 ~ |[Git](https://github.com/Team-Tiki/tiki-client)|
-|ForLionz|교내 멋쟁이사자처럼 대학 운영 서비스|2024.01 ~ 2024.03|[Git](https://github.com/wuzoo/ForLionz12_FE)||
+- [티키](https://github.com/Team-Tiki/tiki-client) : 동아리 운영 및 관리 서비스 (2024.06 ~)
+- [알고헙](https://github.com/GAMZA-BAT/algohub-client) : 알고리즘 스터디 플랫폼 (2024.09 ~)
+- [SOPT-Org](https://github.com/sopt-makers/sopt.org-frontend) : IT 창업 동아리 SOPT 공식홈페이지 (2024.09 ~)
+- [ForLionz](https://github.com/wuzoo/ForLionz12_FE) : 교내 멋쟁이사자처럼 대학 운영 서비스 (2024.01 ~ 2024.03)
+
+## Contributions
+- [toss/frontend-fundamentals](https://github.com/toss/frontend-fundamentals/pull/101)
 
 ## ACTIVITY
-|Group|Part|Duration|
-|:---:|:----:|:---:|
-|SOPT Makers|공식 홈페이지 팀|2024.09 ~ |
-|SOPT|34기 WEB|2024.03 ~ 2024.07|
-|멋쟁이사자처럼|Frontend|2023.03 ~ 2023.08|
+- SOPT Makers 공식 홈페이지 팀 FE Engineer
+- SOPT 34th WEB Frontend part
+- 멋쟁이사자처럼 11기 수료, 12기 FE 파트장
 
 ## ETC
 
