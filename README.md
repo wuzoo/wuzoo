@@ -6,7 +6,7 @@
 늘 확인할 수 없는 사용자 경험까지 고려하며 개발하고 있습니다.
 
 ## ACTIVITY
-- 당근 중고차 팀 Frontend Engineer 인턴 (2025.03 ~ 2025.09)
+- 당근 Frontend Engineer 인턴 (2025.03 ~ 2025.09)
 - SOPT Makers 35th 플랫폼 FE Engineer (2025.02 ~ )
 - SOPT Makers 34th 공식 홈페이지 FE Engineer (2024.08 ~ 2025.01)
 - SOPT 34th WEB Frontend part
