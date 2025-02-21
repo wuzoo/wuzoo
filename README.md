@@ -5,21 +5,15 @@
 개발자는 사용자 중심적인 사고를 가진 <strong>소프트웨어 엔지니어</strong>라고 생각합니다. <br />
 늘 확인할 수 없는 사용자 경험까지 고려하며 개발하고 있습니다.
 
-[wuzoo.log](https://velog.io/@wuzoo/posts) <br /><br />
-![Velog GitHub stats](https://velog-github-badge.vercel.app/badge/wuzoo)
-
-## PROJECT
-- [티키](https://github.com/Team-Tiki/tiki-client) : 동아리 운영 및 관리 서비스 (2024.06 ~)
-- [알고헙](https://github.com/GAMZA-BAT/algohub-client) : 알고리즘 스터디 플랫폼 (2024.09 ~)
-- [SOPT-Org](https://github.com/sopt-makers/sopt.org-frontend) : IT 창업 동아리 SOPT 공식홈페이지 (2024.09 ~)
+## ACTIVITY
+- 당근 중고차 팀 Frontend Engineer 인턴 (2025.03 ~ 2025.09)
+- SOPT Makers 35th 플랫폼 FE Engineer (2025.02 ~ )
+- SOPT Makers 34th 공식 홈페이지 FE Engineer (2024.08 ~ 2025.01)
+- SOPT 34th WEB Frontend part
+- 멋쟁이사자처럼 11기 수료, 12기 FE 파트장
 
 ## CONTRIBUTIONS
 - [toss/frontend-fundamentals](https://github.com/toss/frontend-fundamentals/pull/101)
-
-## ACTIVITY
-- SOPT Makers 공식 홈페이지 팀 FE Engineer
-- SOPT 34th WEB Frontend part
-- 멋쟁이사자처럼 11기 수료, 12기 FE 파트장
 
 ## ETC
 
