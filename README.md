@@ -7,8 +7,8 @@
 
 ## ACTIVITY
 - 당근 Frontend Engineer 인턴 (2025.03 ~ 2025.09)
-- SOPT Makers 35th 플랫폼 FE Engineer (2025.02 ~ )
-- SOPT Makers 34th 공식 홈페이지 FE Engineer (2024.08 ~ 2025.01)
+- SOPT Makers 36th 플랫폼 FE Engineer (2025.02 ~ )
+- SOPT Makers 35th 공식 홈페이지 FE Engineer (2024.08 ~ 2025.01)
 - SOPT 34th WEB Frontend part
 - 멋쟁이사자처럼 11기 수료, 12기 FE 파트장
 
