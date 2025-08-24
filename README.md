@@ -1,19 +1,12 @@
 # 최주용 - Choi Ju Yong
 
-> 프론트엔드 개발자 **최주용**이라고 합니다.
-
-개발자는 사용자 중심적인 사고를 가진 <strong>소프트웨어 엔지니어</strong>라고 생각합니다. <br />
-늘 확인할 수 없는 사용자 경험까지 고려하며 개발하고 있습니다.
+> 프론트엔드 엔지니어 **최주용**이라고 합니다.
 
 ## ACTIVITY
-- 당근 중고차 팀 FE Engineer Intern (2025.03 ~ )
-- SOPT Makers 36th 플랫폼 FE Engineer (2025.02 ~ )
-- SOPT Makers 35th 공식 홈페이지 FE Engineer (2024.08 ~ 2025.01)
+- 당근 중고차 팀 FE Engineer Intern (2025.03 ~ 09.04)
+- SOPT Makers 35 ~ 37th FE Engineer (2024.08 ~ )
 - SOPT 34th WEB Frontend part
 - 멋쟁이사자처럼 11기 수료, 12기 FE 파트장
-
-## CONTRIBUTIONS
-- [toss/frontend-fundamentals](https://github.com/toss/frontend-fundamentals/pull/101)
 
 ## ETC
 
